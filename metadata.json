@@ -1,0 +1,8 @@
+{
+  "name": "Manthan",
+  "description": "A multi-modal AI assistant application leveraging various Gemini models for real-time voice conversations with 3D visualization, complex problem-solving, grounded search queries, and fast-response text chat.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
